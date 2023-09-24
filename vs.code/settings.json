@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/acc11df8-318d-49f9-be68-ea143531204a/AppServices/subscriptions/acc11df8-318d-49f9-be68-ea143531204a/resourceGroups/systematicsquad_rg/providers/Microsoft.Web/sites/quisitive-voting-app",
+    "appService.deploySubpath": "."
+}
